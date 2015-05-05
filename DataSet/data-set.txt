@@ -1,0 +1,80 @@
+== Data set - UCursos Forum ==
+@Authors: B.Kupfer & J.Sanz & All the comunity
+
+msg-id		msg-class		post-title		responses		likes		dislikes		author
+mensaje_1745342		raiz		May the fourth		2		20		14		IvÃ¡n GonzÃ¡lez
+mensaje_1745369		hijo		May the fourth		-		-		-		Alex Maximiliano Villarroel Torres
+mensaje_1745387		hijo		May the fourth		-		-		-		Patricio FernÃ¡ndez
+mensaje_1745389		raiz		Ausencia a control por funeral?		1		0		0		Ricardo Candia M.
+mensaje_1745391		hijo		Ausencia a control por funeral?		-		-		-		Pablo Morales Le-Roy
+mensaje_1742110		raiz		Ayuda con bÃºsqueda de identidad del coro FCFM		28		34		4		Samanta Aravena
+mensaje_1742123		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Aurora Leyton R.
+mensaje_1742140		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		BegoÃ±a Urtubia VillagrÃ¡n
+mensaje_1742146		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		AndrÃ©s Sanhueza
+mensaje_1742147		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Ricardo Sandoval PÃ©rez
+mensaje_1742198		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Ian Yon Y.
+mensaje_1742223		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		SebastiÃ¡n Guerrero C.
+mensaje_1742557		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Samanta Aravena
+mensaje_1742276		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Juan Pablo Reyes Croxatto
+mensaje_1742326		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Giuseppe Bonatici A.
+mensaje_1742558		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		BegoÃ±a Urtubia VillagrÃ¡n
+mensaje_1742650		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Eduardo Vilches Maraboli
+mensaje_1742866		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Ian Yon Y.
+mensaje_1742869		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Roberto Fuentes R.
+mensaje_1742906		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Isidora Ulloa
+mensaje_1742985		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		BegoÃ±a Urtubia VillagrÃ¡n
+mensaje_1743052		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Juan Pablo Reyes Croxatto
+mensaje_1743476		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Valeria CortÃ©s
+mensaje_1743724		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Victoria PÃ©rez G.
+mensaje_1743186		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		BegoÃ±a Urtubia VillagrÃ¡n
+mensaje_1743845		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Elisa Paz Kauffmann Figueroa
+mensaje_1743848		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Carlos CÃ¡rdenas
+mensaje_1743850		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Carlos Alvarado Godoy
+mensaje_1743871		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Javier Sagredo Ponce
+mensaje_1744082		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Juan Pablo Reyes Croxatto
+mensaje_1744860		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Isidora Ulloa
+mensaje_1745385		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Ian Yon Y.
+mensaje_1743999		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Francisco Sanhueza Matamala
+mensaje_1744607		hijo		Ayuda con bÃºsqueda de identidad del coro FCFM		-		-		-		Ian Yon Y.
+mensaje_1743667		raiz		Sobre pase nuevo		20		10		0		Marcelo Urrutia S.
+mensaje_1743672		hijo		Sobre pase nuevo		-		-		-		Ricardo Tyrone Rojas
+mensaje_1743673		hijo		Sobre pase nuevo		-		-		-		NicolÃ¡s Troncoso K.
+mensaje_1743687		hijo		Sobre pase nuevo		-		-		-		Carlos CÃ¡rdenas
+mensaje_1743729		hijo		Sobre pase nuevo		-		-		-		Francisco GÃ³mez
+mensaje_1743675		hijo		Sobre pase nuevo		-		-		-		Francisca Oporto
+mensaje_1743715		hijo		Sobre pase nuevo		-		-		-		Angelo Gennari
+mensaje_1743677		hijo		Sobre pase nuevo		-		-		-		SimÃ³n G. Santander
+mensaje_1743678		hijo		Sobre pase nuevo		-		-		-		Vicente Oyanedel MuÃ±oz
+mensaje_1743686		hijo		Sobre pase nuevo		-		-		-		Catalina Bravo Inostroza
+mensaje_1743688		hijo		Sobre pase nuevo		-		-		-		Constanza Escobar F.
+mensaje_1743726		hijo		Sobre pase nuevo		-		-		-		Fernando Avaria Piccardo
+mensaje_1743709		hijo		Sobre pase nuevo		-		-		-		MatÃ­as Vidal V.
+mensaje_1744174		hijo		Sobre pase nuevo		-		-		-		Millaray Miranda E.
+mensaje_1744376		hijo		Sobre pase nuevo		-		-		-		Claudio YÃ¡Ã±ez M.
+mensaje_1744389		hijo		Sobre pase nuevo		-		-		-		Manuel HernÃ¡ndez S.
+mensaje_1744363		hijo		Sobre pase nuevo		-		-		-		Roberto Jara DÃ­az
+mensaje_1744381		hijo		Sobre pase nuevo		-		-		-		Diego Barrera
+mensaje_1744521		hijo		Sobre pase nuevo		-		-		-		Constanza Escobar F.
+mensaje_1744587		hijo		Sobre pase nuevo		-		-		-		Marion Pinto R.
+mensaje_1745290		hijo		Sobre pase nuevo		-		-		-		Diego Gajardo G.
+mensaje_1743740		raiz		Alfajores y bombones para el dÃ­a de la madre!!		13		23		2		Tatiana JimÃ©nez Moscoso
+mensaje_1743743		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		JoaquÃ­n Morales Santelices
+mensaje_1744102		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		JosÃ© F. Aviles
+mensaje_1744197		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Tatiana JimÃ©nez Moscoso
+mensaje_1744424		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Lorena Rojas
+mensaje_1744972		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		JoaquÃ­n Morales Santelices
+mensaje_1745001		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Tatiana JimÃ©nez Moscoso
+mensaje_1745066		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		SebastiÃ¡n Ramirez Ibaceta
+mensaje_1745228		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Valentina Duarte S.
+mensaje_1745257		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Tatiana JimÃ©nez Moscoso
+mensaje_1745298		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Luis RodrÃ­guez H.
+mensaje_1745332		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Diego Paez O.
+mensaje_1745381		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		Tatiana JimÃ©nez Moscoso
+mensaje_1745384		hijo		Alfajores y bombones para el dÃ­a de la madre!!		-		-		-		SebastiÃ¡n Ramirez Ibaceta
+mensaje_1745315		raiz		Vendo entradas Ã³pera Rusalka Teatro Municipal		0		1		0		Ignacio Mercado GutiÃ©rrez
+mensaje_1745250		raiz		Vapeadores o Cigarros Electronicos		1		1		2		Joao Correa
+mensaje_1745383		hijo		Vapeadores o Cigarros Electronicos		-		-		-		Joao Correa
+mensaje_1745382		raiz		Vendo Iphone 4s Blanco 16 GB		0		0		0		Yanxi Hu
+mensaje_1745377		raiz		Vendo entrada Judas Priest / Motorhead, valor Preventa - Cancha		1		0		0		Jaime Bahamondes Navarrete
+mensaje_1745380		hijo		Vendo entrada Judas Priest / Motorhead, valor Preventa - Cancha		-		-		-		Jaime Bahamondes Navarrete
+mensaje_1745379		raiz		Poleron Perdidoooo!!		0		0		0		Cristobal Rojas S.
